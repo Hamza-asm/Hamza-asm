@@ -1,7 +1,7 @@
 ``` cout << "Hello, world! I'm Hamza "; ```
 In progress
 
-![LinkedinBadge](www.linkedin.com/in/hamza-ali-856620206)
+![LinkedIn](www.linkedin.com/in/hamza-ali-856620206)
 ![DataCampBadge](https://www.datacamp.com/portfolio/hkalikhan)
 
 In progress
