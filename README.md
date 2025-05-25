@@ -1,7 +1,7 @@
 ``` cout << "Hello, world! I'm Hamza "; ```
 In progress
 
-![LinkedIn Badge](www.linkedin.com/in/hamza-ali-856620206)
+![Linkedin Badge](www.linkedin.com/in/hamza-ali-856620206)
 <!--
 **Hamza-asm/Hamza-asm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
