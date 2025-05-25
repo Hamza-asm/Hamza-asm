@@ -16,7 +16,7 @@
 
 # 🧩Skills
 
-## Programming Languages
+## 💻Programming Languages
 [![Languages](https://skillicons.dev/icons?i=python,cpp,html,css,js,r&theme=dark)](#)
 
 
