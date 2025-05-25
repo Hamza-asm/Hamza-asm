@@ -21,6 +21,15 @@
 ## 🛠️Tools
 [![Tools](https://skillicons.dev/icons?i=github,vscode,discord,powershell,mysql,postgresql,ps,illustrator,figma&theme=dark)](#)
 
+# Certifications
+- [Python For Data Scien, AI & Development](https://coursera.org/share/db970a7598b9c58fa5b38bc28f06baca)
+- [Pyhton Project For Data Science](https://coursera.org/share/aba3478bd044ff30475f89ac0660afe8)
+- [Get Started With Figma](https://coursera.org/share/ea9a65ad40ff2004ad06ccb79b30e1ee)
+- [Foundation Of PM](https://coursera.org/share/e1ca01c09b06bd5d6516abd1c9544ce4)
+- [Project Initiation: Starting a Successful Project](https://coursera.org/share/951824fa241ac28b8156ce4477e7a27d)
+- [Agile Project Management](https://coursera.org/share/eba3b2f14c2508d330f131756e0d4c6b)
+- [Introduction to C++ Programming and Unreal](https://coursera.org/share/ad05b9377416f791c5d6c80e05100a1c)
+
 
 
 
