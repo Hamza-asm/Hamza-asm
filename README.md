@@ -11,11 +11,15 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hamza-ali-856620206)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/hkalikhan)
 
-In progress
-<!--
-**Hamza-asm/Hamza-asm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧩Skills
 
-Here are some ideas to get you started:
+## Programming Languages
+[![Languages](https://skillicons.dev/icons?i=python,cpp,html,css,js,r-project&theme=dark)](#)
+
+
+## 🛠️Tools
+[![Tools](https://skillicons.dev/icons?i=github,power-bi-2021,excel,vscode,powershell,mysql,postgresql,ps,illustrator,figma&theme=dark)](#)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
