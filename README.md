@@ -1,8 +1,8 @@
 ``` cout << "Hello, world! I'm Hamza "; ```
 In progress
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjahan-mirza-a60a6b231)
-![DataCampBadge](https://www.datacamp.com/portfolio/hkalikhan)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hamza-ali-856620206)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)(https://www.datacamp.com/portfolio/hkalikhan)
 
 In progress
 <!--
