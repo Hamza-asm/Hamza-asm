@@ -18,7 +18,8 @@
 
 
 ## 🛠️Tools
-[![Tools](https://skillicons.dev/icons?i=github,powerbi,vscode,powershell,mysql,postgresql,ps,illustrator,figma&theme=dark)](#)
+[![Tools](https://skillicons.dev/icons?i=github,[powerbi](https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000),vscode,powershell,mysql,postgresql,ps,illustrator,figma&theme=dark)](#)
+
 
 
 
