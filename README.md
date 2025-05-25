@@ -14,7 +14,7 @@
 # 🧩Skills
 
 ## Programming Languages
-[![Languages](https://skillicons.dev/icons?i=python,cpp,html,css,js,r-project&theme=dark)](#)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,html,css,js,r&theme=dark)](#)
 
 
 ## 🛠️Tools
