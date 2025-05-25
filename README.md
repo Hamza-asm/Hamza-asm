@@ -7,6 +7,8 @@
 💻 Passionate about coding, data analysis, & UI/UX design.
 
 🎯 Pursuing BSCS (Data Science); skilled in Power BI, Excel, HTML, CSS, JavaScript, & React.
+
+📈 Experienced in Project Management, with a strong foundation in Agile methodology and project initiation phases.
 ## 🔗LINKS
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hamza-ali-856620206)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/hkalikhan)
