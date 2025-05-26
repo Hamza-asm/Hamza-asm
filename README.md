@@ -32,6 +32,9 @@
 - [Agile Project Management](https://coursera.org/share/eba3b2f14c2508d330f131756e0d4c6b)
 - [Introduction to C++ Programming and Unreal](https://coursera.org/share/ad05b9377416f791c5d6c80e05100a1c)
 
+# 📊Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&bg_color=00000000)](https://github.com/Hamza-asm/github-readme-stats)
 
 
 
