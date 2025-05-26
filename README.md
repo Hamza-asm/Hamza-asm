@@ -34,8 +34,20 @@
 
 # 📊Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=transparent)](https://github.com/Hamza-asm/github-readme-stats)
 
+
+<div style="display: flex-wrap; justify-content: space-between;">
+
+
+<!-- Overall stat-->
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=transparent">
+
+<!-- Streak-->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-asm&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="480">
+
+
+<!-- LANG STAT
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-asm&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark" width="265">-->
 
 
 
