@@ -34,7 +34,7 @@
 
 # 📊Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&bg_color=00000000)](https://github.com/Hamza-asm/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=transparent)](https://github.com/Hamza-asm/github-readme-stats)
 
 
 
