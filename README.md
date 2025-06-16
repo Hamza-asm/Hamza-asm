@@ -24,6 +24,7 @@
 [![Tools](https://skillicons.dev/icons?i=github,vscode,discord,powershell,mysql,postgresql,ps,illustrator,figma&theme=dark)](#)
 
 # Certifications
+- [Data Analysis with Python](https://coursera.org/share/d64fda986cd948586f51955863704d34)
 - [Python For Data Scien, AI & Development](https://coursera.org/share/db970a7598b9c58fa5b38bc28f06baca)
 - [Pyhton Project For Data Science](https://coursera.org/share/aba3478bd044ff30475f89ac0660afe8)
 - [Get Started With Figma](https://coursera.org/share/ea9a65ad40ff2004ad06ccb79b30e1ee)
