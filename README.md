@@ -40,11 +40,10 @@
 <div style="display: flex-wrap; justify-content: space-between;">
 
 
-<!-- Overall stat-->
-<img src="https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=transparent">
+<!-- Overall stat* Streak-->
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=midnight-purple"/> [![GitHub Streak](https://streak-stats.demolab.com?user=Hamza-asm&theme=midnight-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=340&card_height=200)](https://git.io/streak-stats)
 
-<!-- Streak-->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hamza-asm&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="360" height="250">
+
 
 
 <!-- LANG STAT
