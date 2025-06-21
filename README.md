@@ -41,7 +41,7 @@
 
 
 <!-- Overall stat* Streak-->
-<img src="https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=midnight-purple"/> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hamza-asm&theme=midnight-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=360&card_height=230" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=transparent&hide_border=true"/> [![GitHub Streak](https://github-readme-streak-stats-seven-blush.vercel.app?user=Hamza-asm&theme=transparent&hide_border=true&card_width=340)](https://git.io/streak-stats)
 
 
 
