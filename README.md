@@ -45,7 +45,7 @@
 
 # 📊Github Stats
 
-
+<div align="center">
 
 <div style="display: flex-wrap; justify-content: space-between;">
 
@@ -53,7 +53,7 @@
 <!-- Overall stat* Streak-->
 <img src="https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=transparent&hide_border=true"/> [![GitHub Streak](https://github-readme-streak-stats-seven-blush.vercel.app?user=Hamza-asm&theme=transparent&hide_border=true&card_width=340)](https://git.io/streak-stats)
 
-
+</div>
 
 
 <!-- LANG STAT
