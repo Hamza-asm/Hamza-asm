@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&width=435&lines=Hi%2C+Welcome+to+Hamza-asm+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=700&size=23&duration=1&pause=1000&color=2B70C5&center=true&vCenter=true&repeat=false&width=435&lines=Hamza+Ali+Khan)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=100&size=21&duration=1000&pause=1200&color=2B70C5&center=true&vCenter=true&width=435&lines=Data+Analysis+%26+Visualization++;Python+%7C++Power+BI%2C+Excel;UI%2FUX+Design++;Agile+Project+Management+;%F0%9F%9A%80Always+building%2C+always+learning)](https://git.io/typing-svg)
 # About Me
 📍 Hi, I’m Hamza from Karachi, Pakistan.
 
@@ -6,7 +8,7 @@
 
 💻 Passionate about coding, data analysis, & UI/UX design.
 
-🎯 Pursuing BSCS (Data Science); skilled in Power BI, Excel, HTML, CSS, JavaScript, & React.
+🎯 Pursuing BSCS (Data Science); skilled in Power BI, Python, Excel, HTML, CSS, JavaScript, & React.
 
 📈 Experienced in Project Management, with a strong foundation in Agile methodology and project initiation phases.
 ## 🔗LINKS
