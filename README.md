@@ -60,10 +60,10 @@
 <h2 align="center">🏆 GitHub Profile Trophies</h2>
 
 <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="GitHub Profile Trophy"/>
+  <img width="130" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="GitHub Profile Trophy"/>
   <br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-asm&theme=algolia&no-frame=true&no-bg=true&margin-w=5" width="1000" alt="GitHub Profile Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-asm&theme=algolia&no-frame=true&no-bg=true&margin-w=5" width="1100" alt="GitHub Profile Trophy"/>
 </p>
 
 
