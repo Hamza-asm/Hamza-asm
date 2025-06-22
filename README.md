@@ -53,11 +53,26 @@
 <!-- Overall stat* Streak-->
 <img src="https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=transparent&hide_border=true"/> [![GitHub Streak](https://github-readme-streak-stats-seven-blush.vercel.app?user=Hamza-asm&theme=transparent&hide_border=true&card_width=340)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-asm&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark" width="265">
+
 </div>
 
+<h2 align="center">🏆 GitHub Profile Trophies</h2>
 
-<!-- LANG STAT
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-asm&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark" width="265">-->
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="GitHub Profile Trophy"/>
+  <br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-asm&title=-PullRequest,-Reviews&theme=algolia&no-frame=true&no-bg=true&margin-w=5" width="1000" alt="GitHub Profile Trophy"/>
+</p>
+
+
+
+
+
+
+
+
 
 
 
