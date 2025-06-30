@@ -35,6 +35,7 @@
 
 # Certifications
 - [Data Analysis with Python](https://coursera.org/share/d64fda986cd948586f51955863704d34)
+- [Data Visualization in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/course/db633c8e3425c6813ac0b5db6522cb21a7e8e65c)
 - [Python For Data Scien, AI & Development](https://coursera.org/share/db970a7598b9c58fa5b38bc28f06baca)
 - [Pyhton Project For Data Science](https://coursera.org/share/aba3478bd044ff30475f89ac0660afe8)
 - [Get Started With Figma](https://coursera.org/share/ea9a65ad40ff2004ad06ccb79b30e1ee)
