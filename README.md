@@ -33,19 +33,15 @@ I'm always learning, building, and looking for ways to turn raw data into action
 ## 🛠️Tools
 [![Tools](https://skillicons.dev/icons?i=github,vscode,discord,powershell,mysql,postgresql,ps,illustrator,figma&theme=dark)](#)
 
-# Certifications
-- [Data Analysis with Python](https://coursera.org/share/d64fda986cd948586f51955863704d34)
-- [Data Visualization in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/course/db633c8e3425c6813ac0b5db6522cb21a7e8e65c)
-- [Python For Data Scien, AI & Development](https://coursera.org/share/db970a7598b9c58fa5b38bc28f06baca)
-- [Pyhton Project For Data Science](https://coursera.org/share/aba3478bd044ff30475f89ac0660afe8)
-- [Get Started With Figma](https://coursera.org/share/ea9a65ad40ff2004ad06ccb79b30e1ee)
-- [Foundation Of PM](https://coursera.org/share/e1ca01c09b06bd5d6516abd1c9544ce4)
-- [Project Initiation: Starting a Successful Project](https://coursera.org/share/951824fa241ac28b8156ce4477e7a27d)
-- [Agile Project Management](https://coursera.org/share/eba3b2f14c2508d330f131756e0d4c6b)
-- [Introduction to C++ Programming and Unreal](https://coursera.org/share/ad05b9377416f791c5d6c80e05100a1c)
-- [SnowPro Associate: Platform Certification](https://achieve.snowflake.com/806c6d30-cb82-4c63-af5c-3b0108b27c47#acc.fLrwSjle)
+# 📜 Certifications
 
-# 📊Github Stats
+- [✅ SnowPro Associate: Platform (Snowflake)](https://achieve.snowflake.com/806c6d30-cb82-4c63-af5c-3b0108b27c47#acc.fLrwSjle)
+- [📊 Data Visualization in Power BI (DataCamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/db633c8e3425c6813ac0b5db6522cb21a7e8e65c)
+- [🐍 Data Analysis with Python (Coursera)](https://coursera.org/share/d64fda986cd948586f51955863704d34)
+- [🚀 Python for Data Science, AI & Development](https://coursera.org/share/db970a7598b9c58fa5b38bc28f06baca)
+- [🧠 Agile Project Management](https://coursera.org/share/eba3b2f14c2508d330f131756e0d4c6b)
+
+# 📊 Github Stats
 
 <div align="center">
 
