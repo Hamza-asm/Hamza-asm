@@ -10,15 +10,15 @@
 
 
 # About Me
-📍 Hi, I’m Hamza from Karachi, Pakistan.
+📍 Hi, I’m **Hamza** from Karachi, Pakistan.  
+🎓 CS student at **Hamdard University** (7th semester, Data Science major)  
+💡 Passionate about **data analysis**, **BI tools**, and **cloud-based analytics**  
+📊 Certified **SnowPro Associate: Platform** by Snowflake  
+🛠️ Skilled in **Power BI**, **SQL**, **Python**, **Excel**, **React**, and **Figma**
 
-🎓 CS student at Hamdard University, currently in 6th semester.
+I'm always learning, building, and looking for ways to turn raw data into actionable insights. 
 
-💻 Passionate about coding, data analysis, & UI/UX design.
-
-🎯 Pursuing BSCS (Data Science); skilled in Power BI, Python, Excel, HTML, CSS, JavaScript, & React.
-
-📈 Experienced in Project Management, with a strong foundation in Agile methodology and project initiation phases.
+---
 ## 🔗LINKS
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ali-856620206?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/hkalikhan) [![Credly](https://img.shields.io/badge/Credly-FFFFFF?style=for-the-badge&logo=credly&logoColor=FFA500)](https://www.credly.com/users/hkali)
@@ -43,6 +43,7 @@
 - [Project Initiation: Starting a Successful Project](https://coursera.org/share/951824fa241ac28b8156ce4477e7a27d)
 - [Agile Project Management](https://coursera.org/share/eba3b2f14c2508d330f131756e0d4c6b)
 - [Introduction to C++ Programming and Unreal](https://coursera.org/share/ad05b9377416f791c5d6c80e05100a1c)
+- [SnowPro Associate: Platform Certification](https://achieve.snowflake.com/806c6d30-cb82-4c63-af5c-3b0108b27c47#acc.fLrwSjle)
 
 # 📊Github Stats
 
