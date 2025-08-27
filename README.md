@@ -18,8 +18,8 @@
 
 I'm always learning, building, and looking for ways to turn raw data into actionable insights. 
 
----
-## 🌐 Socials
+
+# 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzasofficial1@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ali-856620206?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Upwork](https://img.shields.io/badge/Upwork-008000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/hamzak340?mp_source=share)
@@ -27,7 +27,7 @@ I'm always learning, building, and looking for ways to turn raw data into action
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)](https://hamza-ali-portfolio-85.vercel.app)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/hkalikhan) [![Credly](https://img.shields.io/badge/Credly-808080?style=for-the-badge&logo=credly&logoColor=FFA500)](https://www.credly.com/users/hkali) 
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 <details>
   <summary><b>📊 Data Analysis & Machine Learning</b></summary>
   <p>
