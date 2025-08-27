@@ -9,7 +9,7 @@
 </p>
 
 
-# About Me
+# 💫 About Me
 📍 Hi, I’m **Hamza** from Karachi, Pakistan.  
 🎓 CS student at **Hamdard University** (7th semester, Data Science major)  
 💡 Passionate about **data analysis**, **BI tools**, and **cloud-based analytics**  
