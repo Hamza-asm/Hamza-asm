@@ -65,11 +65,12 @@ I'm always learning, building, and looking for ways to turn raw data into action
 
 # 📜 Certifications  
 
+- [🎓 Google Data Analytics (Coursera)](https://coursera.org/share/604cfb7babe28d6d66ea81034d50ee0c)
 - [✅ SnowPro Associate: Platform (Snowflake)](https://achieve.snowflake.com/806c6d30-cb82-4c63-af5c-3b0108b27c47#acc.fLrwSjle)  
 - [📊 Data Visualization in Power BI (DataCamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/db633c8e3425c6813ac0b5db6522cb21a7e8e65c)  
 - [🐍 Data Analysis with Python (Coursera)](https://coursera.org/share/d64fda986cd948586f51955863704d34)  
 - [🚀 Python for Data Science, AI & Development (Coursera)](https://coursera.org/share/db970a7598b9c58fa5b38bc28f06baca)  
-- [🧠 Agile Project Management (Coursera)](https://coursera.org/share/eba3b2f14c2508d330f131756e0d4c6b)  
+- [🧠 Agile Project Management (Coursera)](https://coursera.org/share/eba3b2f14c2508d330f131756e0d4c6b) 
 
 
 # 📊 Github Stats
