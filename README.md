@@ -25,7 +25,7 @@ I'm always learning, building, and looking for ways to turn raw data into action
 [![Upwork](https://img.shields.io/badge/Upwork-008000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/hamzak340?mp_source=share)
 [![Contra](https://img.shields.io/badge/Contra-FFFFFF?style=for-the-badge&logo=Contra&logoColor=000000)](https://contra.com/hamza_khan_wn8brjvw?referralExperimentNid=SOCIAL_REFERRAL_PROGRAM&referrerUsername=hamza_khan_wn8brjvw)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)](https://hamza-ali-portfolio-85.vercel.app)
-[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/hkalikhan) [![Credly](https://img.shields.io/badge/Credly-808080?style=for-the-badge&logo=credly&logoColor=FFA500)](https://www.credly.com/users/hkali) 
+[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/hkalikhan) [![Credly](https://img.shields.io/badge/Credly-808080?style=for-the-badge&logo=credly&logoColor=FFA500)](https://www.credly.com/users/hmz) 
 
 # 💻 Tech Stack:
 <details>
