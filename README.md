@@ -81,9 +81,11 @@ I'm always learning, building, and looking for ways to turn raw data into action
 
 
 <!-- Overall stat* Streak-->
-<img src="https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=transparent&hide_border=true"/> [![GitHub Streak](https://github-readme-streak-stats-seven-blush.vercel.app?user=Hamza-asm&theme=transparent&hide_border=true&card_width=340)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats-seven-blush.vercel.app?user=Hamza-asm&theme=transparent&hide_border=true&card_width=340)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-asm&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark" width="265">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-asm&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark" width="265">
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza-asm&show_icons=true&theme=transparent&hide_border=true"/>
+-->
 
 </div>
 
