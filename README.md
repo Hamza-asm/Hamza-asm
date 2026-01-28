@@ -11,7 +11,7 @@
 
 # 👤 About Me
 📍 Hi, I’m **Hamza** from Karachi, Pakistan.  
-🎓 CS student at **Hamdard University** (7th semester, Data Science major)  
+🎓 CS student at **Hamdard University** (8th semester, Data Science major)  
 💡 Passionate about **data analysis**, **BI tools**, and **cloud-based analytics**  
 📊 Certified **SnowPro Associate: Platform** by Snowflake  
 🛠️ Skilled in **Power BI**, **SQL**, **Python**, **Excel**, **React**, and **Figma**
