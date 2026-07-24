@@ -67,7 +67,7 @@
   </p>
 </details>
 
----
+
 
 <details>
   <summary><b>⚙️ Backend & APIs</b></summary>
@@ -87,7 +87,7 @@
   </p>
 </details>
 
----
+
 
 <details>
   <summary><b>🌐 Frontend & Mobile</b></summary>
@@ -106,7 +106,7 @@
   </p>
 </details>
 
----
+
 
 <details>
   <summary><b>🗄️ Databases & Data Engineering</b></summary>
@@ -126,7 +126,7 @@
   </p>
 </details>
 
----
+
 
 <details>
   <summary><b>☁️ Cloud & DevOps</b></summary>
@@ -144,7 +144,7 @@
   </p>
 </details>
 
----
+
 
 <details>
   <summary><b>🛠️ Tools</b></summary>
