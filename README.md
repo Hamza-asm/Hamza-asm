@@ -166,7 +166,7 @@
 🧠 **[Ledger Sleuth](https://github.com/Hamza-asm/Ledger-Sleuth.git)**
 Enterprise-grade Multi-Agent AI forensic auditing system built with Google ADK, Gemini, MCP, FastAPI, and GCP.
 
-🚨 **[BakhabarAI](https://github.com/naumanaarif/BakhabarAI.git)**
+🚨 **[BakhabarAI](https://github.com/Hamza-asm/BakhabarAI.git)**
 AI-powered crisis intelligence platform utilizing Multi-Agent AI, FastAPI, Flutter, Firebase, and Google Maps.
 
 🎓 **[Dakhla](https://github.com/orgs/dakhla-io/repositories)**
