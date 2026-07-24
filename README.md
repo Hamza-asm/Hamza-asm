@@ -172,7 +172,7 @@ AI-powered crisis intelligence platform utilizing Multi-Agent AI, FastAPI, Flutt
 🎓 **[Dakhla](https://github.com/orgs/dakhla-io/repositories)**
 AI-assisted university admissions platform featuring an ML recommendation engine, AI chatbot, and automated data pipeline.
 
-🚌 **[Musafir AI](https://github.com/naumanaarif/musafir.git)**
+🚌 **[Musafir AI](https://github.com/Hamza-asm/musafir.git)**
 RAG-powered Karachi transit planner using Gemini, FastAPI, Supabase pgvector, and semantic search.
 
 ✈️ **[SafarAI](https://github.com/Hamza-asm/SafarAI.git)**
