@@ -169,7 +169,7 @@ Enterprise-grade Multi-Agent AI forensic auditing system built with Google ADK, 
 🚨 **[BakhabarAI](https://github.com/Hamza-asm/BakhabarAI.git)**
 AI-powered crisis intelligence platform utilizing Multi-Agent AI, FastAPI, Flutter, Firebase, and Google Maps.
 
-🎓 **[Dakhla](https://github.com/orgs/dakhla-io/repositories)**
+🎓 **[Dakhla](https://github.com/dakhla-pk)**
 AI-assisted university admissions platform featuring an ML recommendation engine, AI chatbot, and automated data pipeline.
 
 🚌 **[Musafir AI](https://github.com/Hamza-asm/musafir.git)**
