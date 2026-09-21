@@ -164,25 +164,25 @@
 ## 🚀 Featured Projects
 
 🧠 **[Ledger Sleuth](https://github.com/Hamza-asm/Ledger-Sleuth.git)**
-Enterprise-grade Multi-Agent AI forensic auditing system built with Google ADK, Gemini, MCP, FastAPI, and GCP.
+- Enterprise-grade Multi-Agent AI forensic auditing system built with Google ADK, Gemini, MCP, FastAPI, and GCP.
 
 🚨 **[BakhabarAI](https://github.com/Hamza-asm/BakhabarAI.git)**
-AI-powered crisis intelligence platform utilizing Multi-Agent AI, FastAPI, Flutter, Firebase, and Google Maps.
+- AI-powered crisis intelligence platform utilizing Multi-Agent AI, FastAPI, Flutter, Firebase, and Google Maps.
 
 🎓 **[Dakhla](https://github.com/dakhla-pk)**
-AI-assisted university admissions platform featuring an ML recommendation engine, AI chatbot, and automated data pipeline.
+-  AI-assisted university admissions platform featuring an ML recommendation engine, AI chatbot, and automated data pipeline.
 
 🚌 **[Musafir AI](https://github.com/Hamza-asm/musafir.git)**
-RAG-powered Karachi transit planner using Gemini, FastAPI, Supabase pgvector, and semantic search.
+- RAG-powered Karachi transit planner using Gemini, FastAPI, Supabase pgvector, and semantic search.
 
 ✈️ **[SafarAI](https://github.com/Hamza-asm/SafarAI.git)**
-AI travel assistant leveraging LLMs, real-time community intelligence, Google Maps, and weather APIs.
+- AI travel assistant leveraging LLMs, real-time community intelligence, Google Maps, and weather APIs.
 
 🌤️ **[Karachi AQI Forecaster](https://github.com/Hamza-asm/karachi-aqi-predictor.git)**
-End-to-end ML pipeline for AQI forecasting with Google Cloud, Streamlit dashboards, and CI/CD automation.
+- End-to-end ML pipeline for AQI forecasting with Google Cloud, Streamlit dashboards, and CI/CD automation.
 
 🚗 **[Karachi Traffic YOLOv8](https://github.com/Hamza-asm/Karachi-Traffic-YOLOv8.git)**
-Real-time vehicle detection and traffic analysis using YOLOv8m on a custom Pakistan-specific dataset.
+- Real-time vehicle detection and traffic analysis using YOLOv8m on a custom Pakistan-specific dataset.
 
 > 📌 **More projects available on my [GitHub profile](https://github.com/Hamza-asm)**
 
