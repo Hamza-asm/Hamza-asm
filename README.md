@@ -27,10 +27,11 @@
 <p align="left">
   <a href="mailto:hamzasofficial1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/hamza-ali-856620206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://hamza-ali.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
   <!-- <a href="https://www.upwork.com/freelancers/hamzak340"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"/></a>
    <a href="https://contra.com/hamza_khan_wn8brjvw"><img src="https://img.shields.io/badge/Contra-1A1A1A?style=flat-square&logoColor=white" alt="Contra"/></a>
-  <a href="https://hamza-ali-portfolio-85.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.datacamp.com/portfolio/hkalikhan"><img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black" alt="DataCamp"/></a>-->
+  <a href="https://hamza-ali.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.datacamp.com/portfolio/hkalikhan"><img src="httpg.s://imshields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black" alt="DataCamp"/></a>-->
   <a href="https://www.credly.com/users/hmz"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"/></a>
 </p>
 
