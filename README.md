@@ -191,13 +191,13 @@
 
 ## 📜 Certifications
 
-- [🎓 Google Data Analytics (Coursera)](https://coursera.org/share/604cfb7babe28d6d66ea81034d50ee0c)
-- [✅ SnowPro Associate: Platform (Snowflake)](https://achieve.snowflake.com/806c6d30-cb82-4c63-af5c-3b0108b27c47#acc.fLrwSjle)
-- [📊 Power BI For Business Intelligence (AnalytixCamp)](https://analytixcamp.com/CERT-5R9A2L8/)
-- [📈 Data Visualization in Power BI (DataCamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/db633c8e3425c6813ac0b5db6522cb21a7e8e65c)
-- [🐍 Data Analysis with Python (Coursera)](https://coursera.org/share/d64fda986cd948586f51955863704d34)
-- [🚀 Python for Data Science, AI & Development (Coursera)](https://coursera.org/share/db970a7598b9c58fa5b38bc28f06baca)
-- [🧠 Agile Project Management (Coursera)](https://coursera.org/share/eba3b2f14c2508d330f131756e0d4c6b)
+- [![Coursera](https://img.shields.io/badge/Coursera-IBM_Data_Science_Specialization-00419f?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/c723a39774577b8dc33af41d0f56fd6c)
+- [![Coursera](https://img.shields.io/badge/Coursera-Google_Data_Analytics-00419f?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/604cfb7babe28d6d66ea81034d50ee0c)
+- [![Coursera](https://img.shields.io/badge/Coursera-Python_for_Data_Science%2C_AI_%26_Development-00419f?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/db970a7598b9c58fa5b38bc28f06baca)
+- [![Coursera](https://img.shields.io/badge/Coursera-Agile_Project_Management-00419f?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/eba3b2f14c2508d330f131756e0d4c6b)
+- [![Snowflake](https://img.shields.io/badge/Snowflake-SnowPro_Associate%3A_Platform-1699c8?style=for-the-badge&logo=snowflake&logoColor=white)](https://achieve.snowflake.com/806c6d30-cb82-4c63-af5c-3b0108b27c47#acc.fLrwSjle)
+- [![AnalytixCamp](https://img.shields.io/badge/AnalytixCamp-Power_BI_for_Business_Intelligence-F2C811?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDE0aDR2OEg0ek0xMCA4aDR2MTRoLTR6TTE2IDJoNHYyMGgtNHoiLz48L3N2Zz4%3D)](https://analytixcamp.com/CERT-5R9A2L8/)
+- [![DataCamp](https://img.shields.io/badge/DataCamp-Data_Visualization_in_Power_BI-015724?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/db633c8e3425c6813ac0b5db6522cb21a7e8e65c)
 
 ---
 
