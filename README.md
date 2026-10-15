@@ -164,6 +164,10 @@
 
 ## 🚀 Featured Projects
 
+🤖 [PitchPrep](https://github.com/Hamza-asm/PitchPrep)
+
+- Multi-agent sales research assistant built with LangGraph, FastAPI, Firecrawl, Groq, Supabase, and Next.js that generates source-verified prospect briefs and outreach emails.
+
 🧠 **[Ledger Sleuth](https://github.com/Hamza-asm/Ledger-Sleuth.git)**
 - Enterprise-grade Multi-Agent AI forensic auditing system built with Google ADK, Gemini, MCP, FastAPI, and GCP.
 
