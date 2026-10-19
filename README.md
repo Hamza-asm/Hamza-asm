@@ -218,7 +218,7 @@
 </div>
 
 ---
-
+<!--
 ## 📈 Activity Graph
 
 <div align="center">
@@ -230,7 +230,7 @@
 </div>
 
 ---
-
+-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamza-asm&style=flat-square&color=58A6FF" alt="Profile Views"/>
 </p>
